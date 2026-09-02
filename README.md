@@ -5,7 +5,7 @@
 <img
   align="right"
   src="https://media1.tenor.com/m/Nl7ofqrwNjwAAAAd/cat-kitty.gif"
-  width="175"
+  width="150"
 />
 
 ### Java Backend Developer | QA Engineer
