@@ -16,7 +16,7 @@ Developing & testing backend systems with a focus on
 
 
 
-[Software Engineer '28 @ ITMO University](https://abit.itmo.ru/program/bachelor/software_engineering)
+[Software Engineer '28 @ ITMO University](https://abit.itmo.ru/program/bachelor/system_software)
 
 
 ## Tech Stack
