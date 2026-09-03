@@ -1,6 +1,6 @@
 
 
-# Hi, i'm Andrey Smirnov
+# Hi, I'm Andrey Smirnov
 
 <img
   align="right"
