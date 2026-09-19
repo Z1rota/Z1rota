@@ -12,7 +12,7 @@
 
 
 Developing & testing backend systems with a focus on  
-**reliability and performance**
+reliability and performance
 
 
 
